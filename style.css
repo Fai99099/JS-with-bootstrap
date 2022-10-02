@@ -50,7 +50,9 @@
         -webkit-overflow-scrolling: touch;
       }
       .p-5{
-        background-image:url("historical-buildings-morocco.jpg");
-      
+        background-image:url("sahara-desert-sunlight-blue-sky-morocco-africa.jpg");
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+
     }
       
