@@ -68,3 +68,19 @@
   button.btn {
     margin-bottom:butt;
   }
+strong,h4{
+  font-family: 'CPlayball', serif;
+  font-size: 30px;
+}
+h1,h5{
+  font-family: 'Bebas Neue', serif;
+  font-size: 30px;
+}
+.lead {
+  font-family: 'Amatic SC', serif;
+  font-size: 30px;
+}
+.text-muted{
+  font-family: 'Playball', serif;
+  font-size: 20px;
+}
